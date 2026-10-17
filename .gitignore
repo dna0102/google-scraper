@@ -1,0 +1,4 @@
+*.exe
+*.exe~
+config.json
+proxies.txt
