@@ -35,6 +35,7 @@ gscraper -s "dentists in Leeds" -proxies proxies.txt -c 48
 `gscraper -h` lists every option.
 
 ## Proxies
+[Best/My Proxy provider - $0.3/gb](https://nettify.xyz/auth/signup?ref=CD633C4A)
 
 Put them in `proxies.txt`, one per line. Any of these formats work:
 
