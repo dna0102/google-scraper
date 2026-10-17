@@ -7,6 +7,7 @@ A fast Google Maps lead scraper written in Go. Type in something like `plumbers 
 ^ old prev 
 
 new one: <img width="666" height="424" alt="image" src="https://github.com/user-attachments/assets/45715293-139a-4fc0-8eb8-24843ab1d92d" />
+
 w/ 100 threads, used around 1.8gb from proxy
 
 It doesn't open a browser. It talks to the same endpoints the Google Maps website uses, with a Chrome TLS fingerprint, and fetches pages in parallel, so a few hundred businesses usually takes a few seconds.
